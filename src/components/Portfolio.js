@@ -33,6 +33,32 @@ export default class Porfolio extends Component {
                   </a>
                 </div>
               </div>
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <a href="#modal-01">
+                    <img src={require("../assets/pokemon-list.png")} className="item-img" alt="pokemon-list"/>
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h5>Pokemon List</h5>
+                        <p>DESCRIPTION</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <a href="#modal-01">
+                    <img src={require("../assets/portfolio.png")} className="item-img" alt="portfolio"/>
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h5>Portfolio</h5>
+                        <p>DESCRIPTION</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
