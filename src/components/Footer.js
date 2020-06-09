@@ -18,7 +18,8 @@ export default class Footer extends Component {
 									)
 								})
 							}
-						</ul>		
+						</ul>
+						<p>&copy; 2020 by Gianni Antonio Manilia </p>	
 					</div>
 					<div id="go-top">
 						<a className="smoothscroll" title="Back to Top" href="#home">

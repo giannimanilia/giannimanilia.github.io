@@ -21,19 +21,6 @@ export default class Header extends Component {
 								<div className="banner-text">
 									 <h1 className="responsive-headline">Hi! I&#39;m {resumeData.name}</h1>
 									 <hr/>
-									 <ul className="social">
-											{
-												resumeData.socialLinks && resumeData.socialLinks.map(item =>{
-													return(
-														<li key={item.name}>
-															<a href={item.url} target="_blank" rel="noopener noreferrer">
-																<i className={item.className}/>
-															</a>
-														</li>
-													)
-												})
-											}
-									 </ul>
 								</div>
 						 </div>
 
