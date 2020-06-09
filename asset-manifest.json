@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.80c00be4.chunk.js",
-    "main.js.map": "/static/js/main.80c00be4.chunk.js.map",
+    "main.js": "/static/js/main.895079c7.chunk.js",
+    "main.js.map": "/static/js/main.895079c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/js/2.3967d565.chunk.js": "/static/js/2.3967d565.chunk.js",
     "static/js/2.3967d565.chunk.js.map": "/static/js/2.3967d565.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.30bb72c525efa557f7439e820f86c116.js": "/precache-manifest.30bb72c525efa557f7439e820f86c116.js",
+    "precache-manifest.079a3078eff24655a66e5057fe396e16.js": "/precache-manifest.079a3078eff24655a66e5057fe396e16.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.3967d565.chunk.js.LICENSE.txt": "/static/js/2.3967d565.chunk.js.LICENSE.txt",
+    "static/media/pokemon-list.png": "/static/media/pokemon-list.399cca3d.png",
+    "static/media/portfolio.png": "/static/media/portfolio.749d0ba4.png",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.ffb6ff29.jpg",
     "static/media/sudoku-solver.png": "/static/media/sudoku-solver.38cc0743.png",
     "static/media/uniapp-usb.png": "/static/media/uniapp-usb.4f5064aa.png"
@@ -20,6 +22,6 @@
     "static/js/runtime-main.e5fc83a6.js",
     "static/js/2.3967d565.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.80c00be4.chunk.js"
+    "static/js/main.895079c7.chunk.js"
   ]
 }
