@@ -29,7 +29,7 @@ let resumeData = {
 	"I'm always looking forward to new challenges and learn new things. " +
 	"I have lived, studied and worked in two different realities, " +
 	"which has allowed me to overcome obstacles and understand that everything is possible when you try your best to achieve a goal. " +
-	"However, I have also failed and humbly learned more through my mistakes than I could have learned on a bumpy road.",
+	"However, I have also failed, and that gave me the opportunity of learn a lot through my mistakes.",
 	"address":"Padua, Italy",
 	"website":"https://giannimanilia.github.io/",
 	"education":[
