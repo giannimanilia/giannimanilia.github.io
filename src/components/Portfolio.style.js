@@ -15,10 +15,6 @@ export const Column = styled.div`
 		margin-top: 8px;
 		vertical-align: middle;
 		width: 100%;
-
-		&:hover{
-			opacity: 0.5;
-		}
 	}
 
 	@media screen and (max-width: 800px){
@@ -36,5 +32,4 @@ export const Column = styled.div`
 	}
 `;
 
-export const Project = styled.div`
-`;
+export const Project = styled.div``;
