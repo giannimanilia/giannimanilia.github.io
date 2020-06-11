@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.895079c7.chunk.js",
-    "main.js.map": "/static/js/main.895079c7.chunk.js.map",
+    "main.js": "/static/js/main.941d94f8.chunk.js",
+    "main.js.map": "/static/js/main.941d94f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
-    "static/js/2.3967d565.chunk.js": "/static/js/2.3967d565.chunk.js",
-    "static/js/2.3967d565.chunk.js.map": "/static/js/2.3967d565.chunk.js.map",
+    "static/js/2.98225c3a.chunk.js": "/static/js/2.98225c3a.chunk.js",
+    "static/js/2.98225c3a.chunk.js.map": "/static/js/2.98225c3a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.079a3078eff24655a66e5057fe396e16.js": "/precache-manifest.079a3078eff24655a66e5057fe396e16.js",
+    "precache-manifest.d5f0163aca1fec9e7158fffdb4001117.js": "/precache-manifest.d5f0163aca1fec9e7158fffdb4001117.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3967d565.chunk.js.LICENSE.txt": "/static/js/2.3967d565.chunk.js.LICENSE.txt",
+    "static/js/2.98225c3a.chunk.js.LICENSE.txt": "/static/js/2.98225c3a.chunk.js.LICENSE.txt",
     "static/media/pokemon-list.png": "/static/media/pokemon-list.399cca3d.png",
     "static/media/portfolio.png": "/static/media/portfolio.749d0ba4.png",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.ffb6ff29.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
-    "static/js/2.3967d565.chunk.js",
+    "static/js/2.98225c3a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.895079c7.chunk.js"
+    "static/js/main.941d94f8.chunk.js"
   ]
 }
