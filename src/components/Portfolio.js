@@ -42,11 +42,11 @@ export default class Portfolio extends Component {
 					<Column>
 						<div className="grid">
 							<div className="effect-zoe">
-								<img src={require("../assets/pokemon-list.png")} alt="pokemon-list"/>
+								<img src={require("../assets/pokedata.png")} alt="pokedata"/>
 								<figcaption>
-									<h2 className="project-name hidden-xs">Pokemon List</h2>
+									<h2 className="project-name hidden-xs">PokeData</h2>
 									<p className="icon-links">
-										<a href="https://bitbucket.org/GManiliapp/pokemon-list" target="_blank" rel="noopener noreferrer">
+										<a href="https://bitbucket.org/GManiliapp/pokedata" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-bitbucket"></i>
 										</a>
 									</p>
