@@ -52,6 +52,14 @@ let resumeData = {
 	],
 	"work":[
 		{
+			"company":"Ifin Sistemi",
+			"location":"Padova, Italy",
+			"position":"Software Developer",
+			"startDate":"06/2020",
+			"endDate":"TODAY",
+			"description":"Java Spring development"
+		},
+		{
 			"company":"OpenSymbol",
 			"location":"Vicenza, Italy",
 			"position":"Software Developer",
