@@ -57,7 +57,7 @@ let resumeData = {
 			"position":"Software Developer",
 			"startDate":"06/2020",
 			"endDate":"TODAY",
-			"description":"Java Spring development"
+			"description":"Develop and optimize fintech services for Software Houses and System Integrators. Tech stack: Java, Spring"
 		},
 		{
 			"company":"OpenSymbol",
@@ -65,7 +65,7 @@ let resumeData = {
 			"position":"Software Developer",
 			"startDate":"10/2018",
 			"endDate":"03/2020",
-			"description":"CRM software development"
+			"description":"Develop and optimize SugarCRM as per client requirements. Tech stack: PHP, Javascript, HTML, CSS, MySQL, Oracle DB"
 		},
 		{
 			"company":"Kratos & 2waysports",
