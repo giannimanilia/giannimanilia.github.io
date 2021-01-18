@@ -70,6 +70,24 @@ export default class Portfolio extends Component {
 							</div>
 						</div>
 					</Column>
+					<Column>
+						<div className="grid">
+							<div className="effect-zoe">
+								<img src={require("../assets/notes.png")} alt="notes"/>
+								<figcaption>
+									<h2 className="project-name hidden-xs">Notes</h2>
+									<p className="icon-links">
+										<a href="https://bitbucket.org/GManiliapp/notes-android" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-bitbucket"></i>
+										</a>
+										<a href="https://bitbucket.org/GManiliapp/notes-backend" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-bitbucket"></i>
+										</a>
+									</p>
+								</figcaption>
+							</div>
+						</div>
+					</Column>
 				</Row>
 			</section>
 		);

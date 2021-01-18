@@ -57,7 +57,7 @@ let resumeData = {
 			"position":"Software Developer",
 			"startDate":"06/2020",
 			"endDate":"TODAY",
-			"description":"Develop and optimize fintech services for Software Houses and System Integrators. Tech stack: Java, Spring"
+			"description":"Develop and optimize fintech services for Software Houses and System Integrators. Tech stack: Microservices' architecture, Java, Spring and Spring Boot, Kafka, MyBatis, PostgreSQL, SQL Server, Git"
 		},
 		{
 			"company":"OpenSymbol",
