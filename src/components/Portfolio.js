@@ -77,10 +77,7 @@ export default class Portfolio extends Component {
 								<figcaption>
 									<h2 className="project-name hidden-xs">Notes</h2>
 									<p className="icon-links">
-										<a href="https://bitbucket.org/GManiliapp/notes-android" target="_blank" rel="noopener noreferrer">
-											<i className="fa fa-bitbucket"></i>
-										</a>
-										<a href="https://bitbucket.org/GManiliapp/notes-backend" target="_blank" rel="noopener noreferrer">
+										<a href="https://bitbucket.org/GManiliapp/workspace/projects/NOTES" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-bitbucket"></i>
 										</a>
 									</p>
