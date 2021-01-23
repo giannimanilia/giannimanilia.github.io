@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import {Row, Column} from './Portfolio.style';
-import './Portfolio.css';
+import {Row, Column} from '../style/Portfolio.style';
+import '../css/Portfolio.css';
 
 export default class Portfolio extends Component {
 	render() {

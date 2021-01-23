@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+import './css/App.css';
 import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import resumeData from './resumeData';
+import resumeData from './resume_data';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <About resumeData={resumeData}/>
       <Resume resumeData={resumeData}/>
       <Portfolio resumeData={resumeData}/>
-      <Contact resumeData={resumeData}/>
+      <Contact/>
       <Footer resumeData={resumeData}/>
     </div>
   );
