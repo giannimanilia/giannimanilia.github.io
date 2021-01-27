@@ -38,6 +38,19 @@ export default class Portfolio extends Component {
 								</figcaption>
 							</div>
 						</div>
+						<div className="grid">
+							<div className="effect-zoe">
+								<img src={require("../assets/notes.png")} alt="notes"/>
+								<figcaption>
+									<h2 className="project-name hidden-xs">Notes</h2>
+									<p className="icon-links">
+										<a href="https://bitbucket.org/GManiliapp/workspace/projects/NOTES" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-bitbucket"></i>
+										</a>
+									</p>
+								</figcaption>
+							</div>
+						</div>
 					</Column>
 					<Column>
 						<div className="grid">
@@ -69,15 +82,13 @@ export default class Portfolio extends Component {
 								</figcaption>
 							</div>
 						</div>
-					</Column>
-					<Column>
 						<div className="grid">
 							<div className="effect-zoe">
-								<img src={require("../assets/notes.png")} alt="notes"/>
+								<img src={require("../assets/flappy-hermes.png")} alt="flappy-hermes"/>
 								<figcaption>
-									<h2 className="project-name hidden-xs">Notes</h2>
+									<h2 className="project-name hidden-xs">Flappy Hermes</h2>
 									<p className="icon-links">
-										<a href="https://bitbucket.org/GManiliapp/workspace/projects/NOTES" target="_blank" rel="noopener noreferrer">
+										<a href="https://bitbucket.org/GManiliapp/flappy-hermes" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-bitbucket"></i>
 										</a>
 									</p>
