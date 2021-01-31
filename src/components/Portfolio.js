@@ -88,6 +88,9 @@ export default class Portfolio extends Component {
 								<figcaption>
 									<h2 className="project-name hidden-xs">Flappy Hermes</h2>
 									<p className="icon-links">
+										<a href="https://play.google.com/store/apps/details?id=com.gmaniliapp.flappyhermes" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-android"></i>
+										</a>
 										<a href="https://bitbucket.org/GManiliapp/flappy-hermes" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-bitbucket"></i>
 										</a>
