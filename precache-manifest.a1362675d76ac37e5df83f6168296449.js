@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e52ab24743a18f0d589770ad8f321b7",
+    "revision": "fbd81d36ed415a01a5804a1b8b4a6a48",
     "url": "/index.html"
   },
   {
-    "revision": "cdfa3d9629e26a29320b",
+    "revision": "d357a6bb3514f2d1d075",
     "url": "/static/css/main.ad886c7a.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.98225c3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdfa3d9629e26a29320b",
-    "url": "/static/js/main.ac11382d.chunk.js"
+    "revision": "d357a6bb3514f2d1d075",
+    "url": "/static/js/main.b7e6101e.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
     "url": "/static/js/runtime-main.e5fc83a6.js"
   },
   {
-    "revision": "aab73b892e87b87865fb699e762800bd",
-    "url": "/static/media/flappy-hermes.aab73b89.png"
+    "revision": "c0ee76cc33224b5120b20ba99a571e9f",
+    "url": "/static/media/flappy-hermes.c0ee76cc.png"
   },
   {
     "revision": "9451b574aeeeffdc2018d1ca90385c3f",
