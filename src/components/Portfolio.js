@@ -31,8 +31,8 @@ export default class Portfolio extends Component {
 										<a href="https://play.google.com/store/apps/details?id=com.gmaniliapp.sudokusolver" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-android"></i>
 										</a>
-										<a href="https://bitbucket.org/GManiliapp/sudoku-solver" target="_blank" rel="noopener noreferrer">
-											<i className="fa fa-bitbucket"></i>
+										<a href="https://github.com/giannimanilia/sudoku-solver" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-github"></i>
 										</a>
 									</p>
 								</figcaption>
@@ -44,8 +44,11 @@ export default class Portfolio extends Component {
 								<figcaption>
 									<h2 className="project-name hidden-xs">Notes</h2>
 									<p className="icon-links">
-										<a href="https://bitbucket.org/GManiliapp/workspace/projects/NOTES" target="_blank" rel="noopener noreferrer">
-											<i className="fa fa-bitbucket"></i>
+										<a href="https://github.com/giannimanilia/notes-android" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-github"></i>
+										</a>
+										<a href="https://github.com/giannimanilia/notes-backend" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-github"></i>
 										</a>
 									</p>
 								</figcaption>
@@ -62,8 +65,8 @@ export default class Portfolio extends Component {
 										<a href="https://play.google.com/store/apps/details?id=com.gmaniliapp.pokedata" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-android"></i>
 										</a>
-										<a href="https://bitbucket.org/GManiliapp/pokedata" target="_blank" rel="noopener noreferrer">
-											<i className="fa fa-bitbucket"></i>
+										<a href="https://github.com/giannimanilia/pokedata" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-github"></i>
 										</a>
 									</p>
 								</figcaption>
@@ -91,8 +94,8 @@ export default class Portfolio extends Component {
 										<a href="https://play.google.com/store/apps/details?id=com.gmaniliapp.flappyhermes" target="_blank" rel="noopener noreferrer">
 											<i className="fa fa-android"></i>
 										</a>
-										<a href="https://bitbucket.org/GManiliapp/flappy-hermes" target="_blank" rel="noopener noreferrer">
-											<i className="fa fa-bitbucket"></i>
+										<a href="https://github.com/giannimanilia/flappy-hermes" target="_blank" rel="noopener noreferrer">
+											<i className="fa fa-github"></i>
 										</a>
 									</p>
 								</figcaption>

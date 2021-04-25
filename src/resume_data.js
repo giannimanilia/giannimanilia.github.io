@@ -18,11 +18,6 @@ let resumeData = {
 				"name":"github",
 				"url":"https://github.com/giannimanilia",
 				"className":"fa fa-github"
-			},
-			{
-				"name":"bitbucket",
-				"url":"https://bitbucket.org/GManiliapp/",
-				"className":"fa fa-bitbucket"
 			}
 		],
 	"aboutme":"I am computer engineer with a strong passion for android development. " +
