@@ -47,11 +47,19 @@ let resumeData = {
 	],
 	"work":[
 		{
+			"company":"eDreams ODIGEO",
+			"location":"Barcelona, Spain",
+			"position":"Java Software Engineer",
+			"startDate":"08/2021",
+			"endDate":"PRESENT",
+			"description":""
+		},
+		{
 			"company":"Ifin Sistemi",
 			"location":"Padova, Italy",
-			"position":"Software Developer",
+			"position":"Java Software Engineer",
 			"startDate":"06/2020",
-			"endDate":"TODAY",
+			"endDate":"07/2021",
 			"description":"Develop and optimize fintech services for Software Houses and System Integrators. Tech stack: Microservices' architecture, Java, Spring and Spring Boot, Kafka, MyBatis, PostgreSQL, SQL Server, Git"
 		},
 		{
