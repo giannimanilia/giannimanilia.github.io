@@ -30,7 +30,7 @@ export default class Home extends Component {
                           </a>
                       </li>
                       <li>
-                          <a className="resume" href="documents/cv_gianni_antonio_manilia.pdf" download="" rel="noopener noreferrer">
+                          <a className="resume" href="../assets/documents/cv_gianni_antonio_manilia.pdf" download="" rel="noopener noreferrer">
                               <i className="fas fa-file-pdf"></i>
                           </a>
                       </li>
