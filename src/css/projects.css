@@ -1,0 +1,81 @@
+/* projects section starts */
+.projects {
+  background: #e5ecfb;
+  color: #002057;
+}
+.projects .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
+}
+.projects .box-container .box {
+  flex: 1 1 30rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.7rem 1rem rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  height: 30rem;
+  background: #fff;
+  border: none;
+}
+.projects .box-container .box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.projects .box-container .box .content {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 85%;
+  left: 0;
+  background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  flex-direction: column;
+}
+.projects .box-container .box .content .tag {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 4.5rem;
+  width: 100%;
+  padding-left: 1rem;
+  background: #e5ecfb;
+  color: #002057;
+}
+.projects .box-container .box .content .tag h3 {
+  font-size: 2rem;
+}
+.projects .box-container .box:hover .content {
+  top: 25%;
+}
+.projects .desc {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.projects .desc p {
+  font-size: 1.5rem;
+}
+.projects .desc .btns {
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+}
+.projects .desc .btns .btn {
+  line-height: 0;
+  display: block;
+  padding: 1.5rem 2.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #2506ad;
+  margin-top: 2rem;
+}
+.projects .desc .btns .btn:hover {
+  background: #1a047e;
+}
+/* projects section ends */

@@ -1,0 +1,66 @@
+/* about section starts */
+.about {
+  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  color: #fff;
+}
+.about .container {
+  display: flex;
+  flex-direction: container;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 4rem;
+}
+.about .container .image {
+  text-align: center;
+  flex: 1 1 35rem;
+}
+.about .container .image img {
+  margin: 4rem;
+  width: 30rem;
+  border-radius: 5%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
+  mix-blend-mode: normal;
+  transition: 0.3s;
+}
+.about .container .content {
+  flex: 1 1 45rem;
+  padding: 3rem;
+}
+.about .container .content h2 {
+  font-size: 2.8rem;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-left: 1rem;
+}
+.about .container .content h3 {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: left;
+  margin-left: 1rem;
+}
+.about .container .content p {
+  font-size: 1.5rem;
+  text-align: left;
+  margin-left: 1rem;
+}
+
+/* about media queries starts*/
+@media screen and (max-width: 600px) {
+  .about .container .image {
+    margin-top: 2rem;
+  }
+  .about .container .image img {
+    margin: 0 auto;
+    width: 80%;
+    mix-blend-mode: normal;
+  }
+  .about .container {
+    padding: 0.5rem;
+    margin-bottom: 7rem;
+  }
+  .about .container .content {
+    padding: 1rem;
+  }
+}
+/* about media queries ends */
+/* about section ends */
