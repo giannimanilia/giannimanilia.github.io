@@ -8,7 +8,30 @@ export default class Experience extends Component {
           <h2 className="heading"><i className="fas fa-briefcase"></i> Experience</h2>
       
           <div className="timeline">
-      
+              <div className="container left">
+                  <div className="content">
+                      <div className="tag">
+                          <h2>N26</h2>
+                      </div>
+                      <div className="desc">
+                          <h3>Backend Engineer</h3>
+                          <p>03/2024 - Present</p>
+                      </div>
+                  </div>
+              </div>
+
+              <div className="container right">
+                  <div className="content">
+                      <div className="tag">
+                          <h2>eDreams ODIGEO</h2>
+                      </div>
+                      <div className="desc">
+                          <h3>Java Senior Software Engineer</h3>
+                          <p>10/2022 - 02/2024</p>
+                      </div>
+                  </div>
+              </div>
+
               <div className="container left">
                   <div className="content">
                       <div className="tag">
@@ -16,7 +39,7 @@ export default class Experience extends Component {
                       </div>
                       <div className="desc">
                           <h3>Java Software Engineer</h3>
-                          <p>08/2021 - Present</p>
+                          <p>08/2021 - 09/2022</p>
                       </div>
                   </div>
               </div>
@@ -48,10 +71,10 @@ export default class Experience extends Component {
               <div className="container right">
                   <div className="content">
                       <div className="tag">
-                          <h2>Junior Android Developer</h2>
+                          <h2>Kratos & 2WaySports</h2>
                       </div>
                       <div className="desc">
-                          <h3>Kratos & 2WaySports</h3>
+                          <h3>Junior Android Developer</h3>
                           <p>06/2017 - 08/2017</p>
                       </div>
                   </div>

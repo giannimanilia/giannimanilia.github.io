@@ -15,7 +15,7 @@ export default class About extends Component {
       
               <div className="content">
                   <h2>Gianni Antonio Manilia</h2>
-                  <h3>Java Software Engineer</h3>
+                  <h3>Backend Engineer</h3>
                   <p>I’m a computer engineer with a strong passion for software development. I always keep in mind the customer while
                       designing and implementing optimized, clean and testable solutions. Both from a professional and personal point of view,
                       I'm always looking forward to continuing learning and improving.</p>

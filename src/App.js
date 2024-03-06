@@ -110,10 +110,10 @@ function App() {
                 }}
             />
       <About/>
-      <Skills/>
-      <Education/>
       <Projects projectsJson={projectsJson}/>
       <Experience/>
+      <Skills/>
+      <Education/>
       <Footer/>
     </div>
   );
