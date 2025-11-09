@@ -1,7 +1,7 @@
 /* projects section starts */
 .projects {
-  background: #e5ecfb;
-  color: #002057;
+  background: #e4f4ff;
+  color: #0057a5;
 }
 .projects .box-container {
   display: flex;
@@ -37,13 +37,13 @@
 .projects .box-container .box .content .tag {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #e5ecfb;
-  color: #002057;
+  background: #e4f4ff;
+  color: #0057a5;
 }
 .projects .box-container .box .content .tag h3 {
   font-size: 2rem;
@@ -82,10 +82,10 @@
   border-radius: 0.5rem;
   font-size: 1.5rem;
   color: #fff;
-  background: #2506ad;
+  background: #0057a5;
   margin-top: 2rem;
 }
 .projects .desc .btns .btn:hover {
-  background: #1a047e;
+  background: #02437d;
 }
 /* projects section ends */

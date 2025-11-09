@@ -9,7 +9,6 @@ import Skills from './components/Skills';
 import Education from './components/Education';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
-import Footer from './components/Footer';
 
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
@@ -35,7 +34,7 @@ function App() {
                 options={{
                     background: {
                         color: {
-                            value: "#e5ecfb",
+                            value: "#e4f4ff",
                         },
                     },
                     fullScreen: {
@@ -67,10 +66,10 @@ function App() {
                     },
                     particles: {
                         color: {
-                            value: "#2506ad",
+                            value: "#0057a5",
                         },
                         links: {
-                            color: "#2506ad",
+                            color: "#0057a5",
                             distance: 150,
                             enable: true,
                             opacity: 0.5,
@@ -114,7 +113,6 @@ function App() {
       <Experience/>
       <Skills/>
       <Education/>
-      <Footer/>
     </div>
   );
 }

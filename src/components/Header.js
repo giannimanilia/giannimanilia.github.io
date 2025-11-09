@@ -4,7 +4,6 @@ import '../css/header.css';
 export default class Header extends Component {
 	render() {
 		return (
-				<React.Fragment>
             <header>
                 <div id="menu" className="fas fa-bars"></div>
                 <nav className="navbar">
@@ -18,7 +17,6 @@ export default class Header extends Component {
                     </ul>
                 </nav>
             </header>
-				</React.Fragment>
 		);
 	}
 }
