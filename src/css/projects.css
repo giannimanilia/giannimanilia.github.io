@@ -51,6 +51,16 @@
 .projects .box-container .box:hover .content {
   top: 25%;
 }
+/* Disable hover effect entirely */
+.projects .box-container .box.no-hover:hover .content {
+  top: 85% !important; /* same as default, so no movement */
+  cursor: default;
+}
+
+/* Optional: disable tilt effect if using tilt library */
+.projects .box-container .box.no-hover {
+  pointer-events: none; /* if you want zero interaction */
+}
 .projects .desc {
   margin: 2rem;
   display: flex;

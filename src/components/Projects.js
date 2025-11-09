@@ -13,7 +13,7 @@ export default class Projects extends Component {
               {
                   projectsJson.projects && projectsJson.projects.map((project) => {
                       return(
-                          <div className="box tilt" key={project.id}>
+                          <div className={`box tilt ${!project.links.view && !project.links.code ? "no-hover" : ""}`} key={project.id}>
                               <img src={project.image} alt={project.name} />
                               <div className="content">
                                   <div className="tag">
