@@ -16,7 +16,7 @@ let projectsJson = {
       desc: "",
       image: "../assets/images/projects/uniapp-usb.png",
       links: {
-        view: "https://play.google.com/store/apps/details?id=com.gmail.gmaniliapp",
+        view: null,
         code: null
       },
     },
@@ -26,7 +26,7 @@ let projectsJson = {
       desc: "",
       image: "../assets/images/projects/pokedata.png",
       links: {
-        view: "https://play.google.com/store/apps/details?id=com.gmaniliapp.pokedata",
+        view: null,
         code: "https://github.com/giannimanilia/pokedata"
       },
     },
@@ -36,7 +36,7 @@ let projectsJson = {
       desc: "",
       image:"../assets/images/projects/sudoku-solver.png",
       links: {
-        view: "https://play.google.com/store/apps/details?id=com.gmaniliapp.sudokusolver",
+        view: null,
         code: "https://github.com/giannimanilia/sudoku-solver"
       },
     },
@@ -56,7 +56,7 @@ let projectsJson = {
       desc: "",
       image: "../assets/images/projects/flappy-hermes.png",
       links: {
-        view: "https://play.google.com/store/apps/details?id=com.gmaniliapp.flappyhermes",
+        view: null,
         code: "https://github.com/giannimanilia/flappy-hermes"
       },
     }
