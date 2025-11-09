@@ -3,6 +3,12 @@
   color: #0057a5;
 }
 
+.projects .heading {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
 .projects .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));

@@ -3,12 +3,17 @@
   background: linear-gradient(to bottom, #6cbcf8, #0057a5);
   color: #fff;
 }
+
+.about .heading {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
 .about .container {
   display: flex;
   flex-direction: container;
-  gap: 2rem;
   flex-wrap: wrap;
-  padding: 4rem;
 }
 .about .container .image {
   text-align: center;
