@@ -25,12 +25,14 @@ export default class Projects extends Component {
                                           {project.links.view != null &&
                                               <a href={project.links.view} className="btn" target="_blank" rel="noopener noreferrer">
                                                   <i className="fas fa-eye"></i>
+                                                    &nbsp;
                                                     View
                                               </a>
                                           }
                                           {project.links.code != null &&
                                               <a href={project.links.code} className="btn" target="_blank" rel="noopener noreferrer">
                                                   <i className="fas fa-code"></i>
+                                                  &nbsp;
                                                   Code
                                               </a>
                                           }
