@@ -7,8 +7,12 @@ export default class Experience extends Component {
             company: "N26",
             roles: [
                 {
+                    name: "Senior Backend Engineer",
+                    date: "04/2026 - Present"
+                },
+                {
                     name: "Backend Engineer",
-                    date: "03/2024 - Present"
+                    date: "03/2024 - 03/2026"
                 }
             ],
             side: "left"
